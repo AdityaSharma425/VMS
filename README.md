@@ -1,5 +1,3 @@
-Here’s a professional **GitHub README** for your **Visitor Management System (VMS)** project:  
-
 ---
 
 ### **📌 `README.md` for Visitor Management System**  
