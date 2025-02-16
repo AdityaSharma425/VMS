@@ -1,5 +1,3 @@
----
-
 ### **📌 `README.md` for Visitor Management System**  
 ```md
 # Visitor Management System (VMS) 🏢🚀
